@@ -1,0 +1,164 @@
+[
+    {
+        "indicator": "Stock Market",
+        "last": "7347",
+        "previous": "7302",
+        "highest": "7454",
+        "lowest": "223",
+        "unit": "points",
+        "date": "Mar/24"
+    },
+    {
+        "indicator": "GDP Growth Rate",
+        "last": "0.45",
+        "previous": "1.6",
+        "highest": "5.05",
+        "lowest": "-4.19",
+        "unit": "percent",
+        "date": "Dec/23"
+    },
+    {
+        "indicator": "GDP Annual Growth Rate",
+        "last": "5.04",
+        "previous": "4.94",
+        "highest": "7.16",
+        "lowest": "-5.32",
+        "unit": "percent",
+        "date": "Dec/23"
+    },
+    {
+        "indicator": "Unemployment Rate",
+        "last": "5.32",
+        "previous": "5.45",
+        "highest": "11.24",
+        "lowest": "2",
+        "unit": "percent",
+        "date": "Sep/23"
+    },
+    {
+        "indicator": "Inflation Rate",
+        "last": "2.75",
+        "previous": "2.57",
+        "highest": "82.4",
+        "lowest": "-1.17",
+        "unit": "percent",
+        "date": "Feb/24"
+    },
+    {
+        "indicator": "Inflation Rate MoM",
+        "last": "0.37",
+        "previous": "0.04",
+        "highest": "8.7",
+        "lowest": "-0.45",
+        "unit": "percent",
+        "date": "Feb/24"
+    },
+    {
+        "indicator": "Interest Rate",
+        "last": "6",
+        "previous": "6",
+        "highest": "12.75",
+        "lowest": "3.5",
+        "unit": "percent",
+        "date": "Feb/24"
+    },
+    {
+        "indicator": "Balance of Trade",
+        "last": "867",
+        "previous": "2000",
+        "highest": "7565",
+        "lowest": "-2331",
+        "unit": "USD Million",
+        "date": "Feb/24"
+    },
+    {
+        "indicator": "Current Account",
+        "last": "-1290",
+        "previous": "-1039",
+        "highest": "5020",
+        "lowest": "-10126",
+        "unit": "USD Million",
+        "date": "Dec/23"
+    },
+    {
+        "indicator": "Current Account to GDP",
+        "last": "1",
+        "previous": "0.3",
+        "highest": "4.8",
+        "lowest": "-6.8",
+        "unit": "percent of GDP",
+        "date": "Dec/22"
+    },
+    {
+        "indicator": "Government Debt to GDP",
+        "last": "39.9",
+        "previous": "41.1",
+        "highest": "87.43",
+        "lowest": "23",
+        "unit": "percent of GDP",
+        "date": "Dec/22"
+    },
+    {
+        "indicator": "Government Budget",
+        "last": "-1.65",
+        "previous": "-2.35",
+        "highest": "3.02",
+        "lowest": "-6.5",
+        "unit": "percent of GDP",
+        "date": "Dec/23"
+    },
+    {
+        "indicator": "Business Confidence",
+        "last": "13.17",
+        "previous": "15.65",
+        "highest": "21.99",
+        "lowest": "-35.75",
+        "unit": "points",
+        "date": "Dec/23"
+    },
+    {
+        "indicator": "Manufacturing PMI",
+        "last": "52.7",
+        "previous": "52.9",
+        "highest": "57.2",
+        "lowest": "27.5",
+        "unit": "points",
+        "date": "Feb/24"
+    },
+    {
+        "indicator": "Consumer Confidence",
+        "last": "123",
+        "previous": "125",
+        "highest": "129",
+        "lowest": "9.6",
+        "unit": "points",
+        "date": "Feb/24"
+    },
+    {
+        "indicator": "Retail Sales MoM",
+        "last": "-3.5",
+        "previous": "4.9",
+        "highest": "26",
+        "lowest": "-22.3",
+        "unit": "percent",
+        "date": "Jan/24"
+    },
+    {
+        "indicator": "Corporate Tax Rate",
+        "last": "22",
+        "previous": "22",
+        "highest": "39",
+        "lowest": "22",
+        "unit": "percent",
+        "date": "Dec/23"
+    },
+    {
+        "indicator": "Personal Income Tax Rate",
+        "last": "35",
+        "previous": "35",
+        "highest": "35",
+        "lowest": "30",
+        "unit": "percent",
+        "date": "Dec/23"
+    }
+]
