@@ -2,16 +2,20 @@
   "name": "s3-cli",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "type": "module",
+  "bin": {
+    "s3cl": "src/s3cl.js"
+  },
   "scripts": {
-    "test": "nodemon --ext js src/index.js"
+    "test": "nodemon --ext js src/s3cl.js",
+    "start": "node src/s3cl.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "aws-sdk": "^2.1580.0",
+    "dotenv": "^16.4.5",
     "nodemon": "^3.1.0"
   }
 }

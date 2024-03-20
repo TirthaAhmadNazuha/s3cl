@@ -1,4 +1,4 @@
-import { workingDir } from "../index.js";
+import { workingDir } from "../s3cl.js";
 
 export function clear() {
   console.clear();
@@ -24,7 +24,8 @@ export function dirFunc(path) {
     });
     return `${wsp.slice(0, -countDd).concat(p).join('/')}`;
   }
-  return workingDir.path + `/${path}`;
+  const ed = workingDir.path + `/${path}`;
+  return ed.startsWith('/') ? ed.slice(1) : ed;
 }
 
 export function cd(...path) {

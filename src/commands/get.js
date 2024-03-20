@@ -1,4 +1,4 @@
-import { s3, workingDir } from "../index.js";
+import { s3, workingDir } from "../s3cl.js";
 import { dirFunc } from "./minimal.js";
 import { writeFileSync, mkdirSync } from 'fs';
 

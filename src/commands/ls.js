@@ -1,4 +1,4 @@
-import { s3, workingDir } from "../index.js";
+import { s3, workingDir } from "../s3cl.js";
 
 function ls() {
   s3.listObjectsV2({
