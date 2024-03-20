@@ -10,7 +10,7 @@ const commands = { ...minimal, ls, cat, get, push, rm };
 import { config } from 'dotenv';
 config();
 
-const endpoint = 'http://192.168.180.9:8000/';
+const endpoint = process.env.ENDPOINT;
 export const s3 = new AWS.S3({
   accessKeyId: process.env.ACCESS_KEY_ID,
   secretAccessKey: process.env.SECRET_ACCESS_KEY,
