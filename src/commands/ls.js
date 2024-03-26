@@ -3,7 +3,7 @@ import { s3, workingDir } from "../s3cl.js";
 function ls() {
   s3.listObjectsV2({
     Bucket: workingDir.bucket,
-    Prefix: workingDir.path + '/',
+    Prefix: workingDir.path ? workingDir.path + '/' : workingDir.path,
     Delimiter: '/'
   }, (err, data) => {
     if (err) throw err;
